@@ -69,7 +69,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Dolapderelisemih/language-translator-for-games.git
+   git clone https://github.com/otomasyonsistemlerisemih-maker/language-translator-for-games.git
    cd language-translator-for-games
    ```
 
